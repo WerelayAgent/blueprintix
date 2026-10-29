@@ -1,16 +1,5 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "rewrites": [
-    { "source": "/build", "destination": "/build.html" },
-    { "source": "/library", "destination": "/library.html" },
-    { "source": "/projects", "destination": "/projects.html" },
-    { "source": "/pricing", "destination": "/pricing.html" },
-    { "source": "/docs", "destination": "/docs.html" },
-    { "source": "/roadmap", "destination": "/roadmap.html" },
-    { "source": "/api/contract", "destination": "/api/contract" },
-    { "source": "/api/price", "destination": "/api/price" },
-    { "source": "/api/news", "destination": "/api/news" },
-    { "source": "/api/library", "destination": "/api/library" },
-    { "source": "/api/projects", "destination": "/api/projects" }
-  ]
+  "trailingSlash": false
 }
