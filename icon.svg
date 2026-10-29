@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- The Blueprint mark, simplified for favicon sizes: navy sheet, cyan drafted
+       frame with arc + folded corner + title block, registration circle, orange dot. -->
+  <rect width="64" height="64" rx="14" fill="#0a1a33"/>
+  <g fill="none" stroke="#5ec8f2" stroke-linecap="round">
+    <rect x="10" y="10" width="44" height="44" stroke-width="3.5"/>
+    <rect x="16.5" y="16.5" width="31" height="31" stroke-width="1.5" opacity="0.9"/>
+    <path d="M16.5 30 A13.5 13.5 0 0 1 30 16.5" stroke-width="2"/>
+    <path d="M41 10 L54 23" stroke-width="2" opacity="0.85"/>
+    <path d="M16.5 42 H47.5" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="34" cy="30" r="6" stroke-width="2.5"/>
+  </g>
+  <circle cx="34" cy="30" r="2.4" fill="#ff7a1a"/>
+</svg>

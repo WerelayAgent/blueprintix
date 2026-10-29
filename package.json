@@ -1,0 +1,26 @@
+{
+  "name": "blueprintix",
+  "version": "1.0.0",
+  "description": "Blueprintix — The entrepreneur layer of web3 on Solana. Describe your project in plain words and watch it build.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": [
+    "solana",
+    "blueprintix",
+    "builder",
+    "dapp",
+    "web3",
+    "pumpfun",
+    "bpix",
+    "crypto"
+  ],
+  "author": "WerelayAgent <WerelayAgent@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WerelayAgent/blueprintix.git"
+  }
+}
