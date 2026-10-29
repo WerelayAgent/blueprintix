@@ -1,8 +1,4 @@
-module.exports = (req, res) => {
-  res.setHeader('Content-Type', 'application/json');
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate');
-  res.status(200).json({
+{
   "address": "live now on pump.fun",
   "live": true,
   "priceUsd": 3.42e-05,
@@ -23,5 +19,4 @@ module.exports = (req, res) => {
     3.42e-05
   ],
   "updatedAt": 1793243224384
-});
-};
+}
