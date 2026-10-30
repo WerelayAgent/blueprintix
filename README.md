@@ -1,4 +1,4 @@
-# Blueprintix (`$BPIX`) 📐⚡
+# Blueprintix (`$PRINTIX`) 📐⚡
 
 > **The entrepreneur layer of Web3 on Solana.**  
 > Describe your Solana project in plain words and watch Blueprintix build it — site, dApp, branding, and docs — then publish it to its own live address.
@@ -17,14 +17,14 @@ Blueprintix is an on-chain architecture engine that automates the creation and l
 
 ---
 
-## 💎 The $BPIX Token
+## 💎 The $PRINTIX Token
 
-- **Ticker:** `$BPIX`
+- **Ticker:** `$PRINTIX`
 - **Chain:** Solana
 - **Utility:**
-  - **Platform Credits & Subscriptions:** Pay for AI compute, continuous generation, and hosting in `$BPIX`.
-  - **Revenue Share & Buybacks:** 70% of platform revenue automatically buys back `$BPIX` on the open market; 30% funds AI infrastructure and development.
-  - **Tiered Discounts:** Hold `$BPIX` for discounted generation and priority queue access.
+  - **Platform Credits & Subscriptions:** Pay for AI compute, continuous generation, and hosting in `$PRINTIX`.
+  - **Revenue Share & Buybacks:** 70% of platform revenue automatically buys back `$PRINTIX` on the open market; 30% funds AI infrastructure and development.
+  - **Tiered Discounts:** Hold `$PRINTIX` for discounted generation and priority queue access.
 - **Contract Address:** `live now on pump.fun`
 
 ---
