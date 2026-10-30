@@ -25,7 +25,7 @@ Blueprintix is an on-chain architecture engine that automates the creation and l
   - **Platform Credits & Subscriptions:** Pay for AI compute, continuous generation, and hosting in `$PRINTIX`.
   - **Revenue Share & Buybacks:** 70% of platform revenue automatically buys back `$PRINTIX` on the open market; 30% funds AI infrastructure and development.
   - **Tiered Discounts:** Hold `$PRINTIX` for discounted generation and priority queue access.
-- **Contract Address:** `live now on pump.fun`
+- **Contract Address:** `CQd1vduJVqU5oDqKVdGUojvJZ8vEGzU95TNztuegpump`
 
 ---
 
